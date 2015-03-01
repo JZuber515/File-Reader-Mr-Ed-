@@ -11,5 +11,5 @@ This uses a doubly linked list with a cursor that
 holds a reference to one of its elements in order
 to parse through the given file.
 
-There are also 2 test files that test the doubly
-linked list for functionality.
+There are also two test files that test the
+doubly linked list for functionality.
